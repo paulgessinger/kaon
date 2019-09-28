@@ -3,3 +3,5 @@ venv
 .eggs
 *.egg-info
 .mypy_cache
+.tox
+.pytest_cache

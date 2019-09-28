@@ -34,5 +34,3 @@ ViewFuncReturnType = Union[
     Tuple[_Body, _Headers],
 ]
 VR = ViewFuncReturnType
-
-__all = [ViewFuncReturnType, VR]
