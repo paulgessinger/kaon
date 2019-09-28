@@ -1,0 +1,5 @@
+*.pyc
+venv
+.eggs
+*.egg-info
+.mypy_cache
