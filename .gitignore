@@ -5,3 +5,4 @@ venv
 .mypy_cache
 .tox
 .pytest_cache
+.idea
